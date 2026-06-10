@@ -1,6 +1,2 @@
 # HanoverTechnical
-Hanover PA Area Technical Support
-
-git add index.html		        -Save File
-git commit -m "Idea Showcase"	-Name Edit
-git push origin main		    -Publish
+Hanover PA Area Technical Support Website
